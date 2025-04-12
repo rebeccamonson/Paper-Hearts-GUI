@@ -33,4 +33,4 @@ with in an environment that fosters joy, community, acceptance, and meaningful c
 - **Input**: Book information is imported from Excel files, including metadata like genre, author, and popularity.
 - **Output**: The application generates a book recommendation in plain text
 
-✨ **Special thanks to Paper Hearts for allowing their real data to be used for this project. To protect the bookstore's informtion, fake customer names and emails were generated and access to the raw data or displays of the raw data will not be provided. This project was completed as part of a class assignment with a partner. Responsibilities  and efforts were shared equally**✨
+✨ **Special thanks to Paper Hearts for allowing their real data to be used for this project. To protect the bookstore's information, fake customer names and emails were generated and access to the raw data or displays of the raw data will not be provided. Python code has also be edited to prevent real data names from being seen. Thank you for your understanding. This project was completed as part of a class assignment with a partner. Responsibilities and efforts were shared equally**✨
